@@ -21,7 +21,7 @@ Constructive Video Recommandation CHATBOT by KAKAO
 ## 2. Background
 
 	
-  We can watch any -kind of video everywhere, everytime thanks to amazing service, YOUTUBE which is most popular video platform in the world. But it's obvious that there are a lot of videos you could never watch until you die might contain inappropriate or offensive content in YOUTUBE. It's natural result that the time people is watching videos is increasing. So we wanted to make people who is spending their time in YOUTUBE use their time in a constructive way 
+  We can watch many videos everywhere, everytime thanks to amazing service, YOUTUBE which is most popular video platform in the world. But it's obvious that there are a lot of videos you could never watch until you die might contain inappropriate or offensive content in YOUTUBE. It's natural result that the time people is watching videos is increasing. So we wanted to make people who is spending their time in YOUTUBE use their time in a constructive way 
 
 
 
