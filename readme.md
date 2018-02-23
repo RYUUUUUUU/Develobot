@@ -32,9 +32,4 @@ Constructive Video Recommandation CHATBOT by KAKAO
 
 
 
-## 4. ETC.
-
-
-Thank you for reading.
-Have A nice day : ) 
    
